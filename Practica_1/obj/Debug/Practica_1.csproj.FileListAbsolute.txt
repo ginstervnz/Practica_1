@@ -1,0 +1,3 @@
+C:\Users\Ginstervnz\Desktop\Proyectos\Practica_1\Practica_1\obj\Debug\Practica_1.csproj.AssemblyReference.cache
+C:\Users\Ginstervnz\Desktop\Proyectos\Practica_1\Practica_1\obj\Debug\Practica_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ginstervnz\Desktop\Proyectos\Practica_1\Practica_1\obj\Debug\Practica_1.csproj.CoreCompileInputs.cache
